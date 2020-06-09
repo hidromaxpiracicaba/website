@@ -27,8 +27,8 @@
   
   $contact->smtp = array(
     'host' => 'https://hidromaxpiracicaba.com.br/',
-    'username' => 'hidromaxpiracicaba@gmail.com',
-    'password' => '404529HidromaxGitHub!#',
+    'username' => 'perin.vinicius@outlook.com',
+    'password' => '404529Outlook!',
     'port' => '587'
   );
   
