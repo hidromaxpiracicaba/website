@@ -26,7 +26,7 @@
   // Uncomment below code if you want to use SMTP to send emails. You need to enter your correct SMTP credentials
   
   $contact->smtp = array(
-    'host' => 'https://hidromaxpiracicaba.com.br/',
+    'host' => 'smtp-mail.outlook.com',
     'username' => 'perin.vinicius@outlook.com',
     'password' => '404529Outlook!',
     'port' => '587'
